@@ -1,4 +1,5 @@
 variable "server_message" {
     type = string
-    default = "Hello!"
+    description = "Message displayed on server."
+    # default = "Hello!"
 }
